@@ -14,8 +14,8 @@ env:
   application_url: "https://www.cleartrip.com/"
 
   # Login credentials
-  username: "cleartrip.test01@gmail.com"
-  password: "Test@1234"
+  username: "test_account@gmail.com"
+  password: "test_password"
 
   # Browser name where tests will be executed. Supported browsers are 'firefox',
   # 'ie', 'chrome', 'safari' and 'phantomjs'. Version is required if you are running
